@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ferth0n
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Python 
+- 📫 How to reach me fernan91@gmail.com
